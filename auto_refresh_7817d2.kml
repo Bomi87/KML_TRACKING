@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<NetworkLink>
+  <name>Live Aircraft Tracker (7817d2)</name>
+  <Link>
+    <href>https://bomi87.github.io/KML_TRACKING/aircraft_7817d2.kml</href>
+    <refreshMode>onInterval</refreshMode>
+    <refreshInterval>30</refreshInterval>
+  </Link>
+</NetworkLink>
+</kml>
